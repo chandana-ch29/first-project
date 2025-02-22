@@ -16,10 +16,6 @@ A web-based **Color Picker & Palette Generator** that allows users to **select c
 - Local Storage (to save user-selected colors)  
 
 
-
-## 📸 Screenshots  
-| Color Picker | Palette Generator 
-
 ## 📂 How to Use  
 1️⃣ **Clone the Repository**  
 ```sh
