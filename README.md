@@ -1,6 +1,4 @@
-# 🎨 Color Picker & Palette Generator  
-
-![Color Picker Preview](https://via.placeholder.com/800x400?text=Project+Preview)  
+# 🎨 Color Picker & Palette Generator   
 
 ## 📌 About the Project  
 A web-based **Color Picker & Palette Generator** that allows users to **select colors, generate harmonious palettes, and copy HEX/RGB codes easily**. Ideal for designers, developers, and artists who need quick and beautiful color combinations.  
@@ -17,13 +15,10 @@ A web-based **Color Picker & Palette Generator** that allows users to **select c
 - JavaScript `Canvas API` (if applicable)  
 - Local Storage (to save user-selected colors)  
 
-## 🚀 Live Demo  
-🔗 [View Online](https://your-live-demo-link.com) *(Replace with your hosted link if available)*  
+
 
 ## 📸 Screenshots  
-| Color Picker | Palette Generator |
-|-------------|------------------|
-| ![Color Picker](https://via.placeholder.com/400x200?text=Color+Picker) | ![Palette Generator](https://via.placeholder.com/400x200?text=Palette+Generator) |
+| Color Picker | Palette Generator 
 
 ## 📂 How to Use  
 1️⃣ **Clone the Repository**  
